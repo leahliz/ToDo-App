@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-size:cover;
+}
+table{
+    background-color: rgba(133, 221, 224, 0.466);
+}
+nav{
+    margin:2%;
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: rgba(108, 191, 194, 0.479);
+}
+#navbarNavAltMarkup{
+    padding:2%;
+    margin:2%;
+}
+.nav-link{
+    border:1px solid black;
+    margin:10px;
+}
+table{
+    float: left;
+}

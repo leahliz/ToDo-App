@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    margin:10%;
+    color: cornsilk;
+}
+
+form{
+    font-weight: bolder;
+    font-size: larger;
+    margin:20%;
+    margin-top: 10%;
+    border: 2px solid black;
+    padding:5%;
+    background-color: rgba(86, 152, 196, 0.527);
+}
